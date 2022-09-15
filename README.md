@@ -22,9 +22,9 @@ Table of Contents:
 ************************************** 4. Files used to develop the project **************************************                          
   1. App.js : The main JavaScript file which contains the core structure of web application.
   2. App.css : The main CSS file used to give the styling to the web application.
-  3. index.html : The core HTML file which contains the <link> for using the google fonts and <script> for using the various font icons and      executes the script App.js.
+  3. index.html : The core HTML file which contains the <link> for using the google fonts and <script> for using the various font icons and executes the script App.js.
   
 ************************************** 5. Features of the web application **************************************                         
 
-    1. Web application is made for all the devices as this application is responsive upto width of 260px even lower than the most slim              design phone Galaxy Tab Fold.
-    2. The font were selected according to the latest web technology convention, by avoiding the serif types(the one which is used in old          times) fonts.
+    1. Web application is made for all the devices as this application is responsive upto width of 260px even lower than the most slim design phone Galaxy Tab Fold.
+    2. The font were selected according to the latest web technology convention, by avoiding the serif types(the one which is used in old times) fonts.
