@@ -27,4 +27,4 @@ Table of Contents:
 ************************************** 5. Features of the web application **************************************                         
 
     1. Web application is made for all the devices as this application is responsive upto width of 260px even lower than the most slim              design phone Galaxy Tab Fold.
-    2. The font were selected according to the latest web technology convention, by avoiding the serif types(the one which is used in old          times) fonts. 
+    2. The font were selected according to the latest web technology convention, by avoiding the serif types(the one which is used in old          times) fonts.
